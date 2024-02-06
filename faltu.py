@@ -1,3 +1,4 @@
+"This comment is added by Akshay"
 """import turtle
 import time
 
@@ -56,6 +57,7 @@ pen.hideturtle()
 pen.speed(0)
 pen.pensize(3)
 
+"This is another comment"
 
 def draw_clock(hr, mn, sec, pen):
 
