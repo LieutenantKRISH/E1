@@ -1,4 +1,3 @@
-"---------------------- We have finally automated the push opertaion using hooks --------------------"
 "This is to check if my connection is good"
 "This comment is added by Akshay"
 """import turtle
